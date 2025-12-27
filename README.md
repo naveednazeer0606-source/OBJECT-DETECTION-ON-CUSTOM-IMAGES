@@ -28,5 +28,4 @@ This project implements a real-time **Object Detection System** using the **YOLO
 3.  **Controls:**
     * Press **'q'** to exit the camera window.
 
-## 📷 Preview
-*(Attach a screenshot of the window showing the AI detecting a person or object)*
+
